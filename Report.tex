@@ -1,0 +1,32 @@
+\documentclass{article}
+\usepackage{amsmath}
+\begin{document}
+
+\title{Desain Metode Sampling untuk Mengukur Jumlah Pengguna Transportasi di Provinsi Jakarta dan Jawa Barat}
+\author{}
+\date{\today}
+\maketitle
+
+\section{Pendahuluan}
+Untuk mengukur jumlah pengguna transportasi di provinsi Jakarta dan Jawa Barat, kami merekomendasikan menggunakan metode sampling yang disebut stratified sampling.
+
+\section{Metode Sampling}
+Dengan metode stratified sampling, daerah-daerah di kedua provinsi tersebut dikelompokkan ke dalam strata atau kelompok-kelompok yang memiliki karakteristik yang sama. Kemudian, sampel dipilih secara acak dari setiap strata untuk dijadikan representatif dari strata tersebut.
+
+Untuk menentukan ukuran sampel yang tepat, kami menggunakan rumus sebagai berikut:
+
+\begin{align*}
+n = N * Z^2 * P * Q / d^2 * (N - 1) + Z^2 * P * Q
+\end{align*}
+
+di mana:
+$n$ = ukuran sampel
+$N$ = jumlah populasi
+$Z$ = tingkat keyakinan (misalnya, 1,96 untuk keyakinan 95\%)
+$P$ = proporsi di dalam populasi yang diestimasi (misalnya, jika ingin mengestimasi proporsi pengguna transportasi umum, $P$ bisa dihitung sebagai jumlah pengguna transportasi umum dibagi jumlah total pengguna transportasi)
+$Q$ = 1 - $P$
+$d$ = tingkat akurasi (misalnya, 0,05 untuk menghasilkan hasil dengan akurasi 5\%)
+
+Setelah ukuran sampel dihitung, sampel dipilih secara acak dari setiap strata sesuai dengan ukuran sampel yang telah ditentukan. Kemudian, jumlah pengguna transportasi diukur di setiap sampel tersebut dan dianalisis untuk menghasilkan estimasi jumlah pengguna transportasi di kedua provinsi tersebut.
+
+\end{document}
