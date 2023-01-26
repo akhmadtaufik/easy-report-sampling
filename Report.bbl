@@ -1,0 +1,229 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{BPS_Kabupaten_Bandung_2022}{book}{}
+      \name{author}{1}{}{%
+        {{hash=cc670360ade9bf9431a4e31906fc6c20}{%
+           family={Bandung},
+           familyi={B\bibinitperiod},
+           given={BPS\bibnamedelima Kabupaten},
+           giveni={B\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {BPS}%
+      }
+      \strng{namehash}{cc670360ade9bf9431a4e31906fc6c20}
+      \strng{fullhash}{cc670360ade9bf9431a4e31906fc6c20}
+      \strng{bibnamehash}{cc670360ade9bf9431a4e31906fc6c20}
+      \strng{authorbibnamehash}{cc670360ade9bf9431a4e31906fc6c20}
+      \strng{authornamehash}{cc670360ade9bf9431a4e31906fc6c20}
+      \strng{authorfullhash}{cc670360ade9bf9431a4e31906fc6c20}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Kabupaten Bandung Dalam Angka 2022}
+      \field{year}{2022}
+    \endentry
+    \entry{BPS_Kota_Bandung_2022}{book}{}
+      \name{author}{1}{}{%
+        {{hash=8c5a4deb43cc4365832ef18c667bec2b}{%
+           family={Bandung},
+           familyi={B\bibinitperiod},
+           given={BPS\bibnamedelima Kota},
+           giveni={B\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {BPS}%
+      }
+      \strng{namehash}{8c5a4deb43cc4365832ef18c667bec2b}
+      \strng{fullhash}{8c5a4deb43cc4365832ef18c667bec2b}
+      \strng{bibnamehash}{8c5a4deb43cc4365832ef18c667bec2b}
+      \strng{authorbibnamehash}{8c5a4deb43cc4365832ef18c667bec2b}
+      \strng{authornamehash}{8c5a4deb43cc4365832ef18c667bec2b}
+      \strng{authorfullhash}{8c5a4deb43cc4365832ef18c667bec2b}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Kota Bandung Dalam Angka 2022}
+      \field{year}{2022}
+    \endentry
+    \entry{BPS_Kabupaten_Bandung_Barat_2022}{book}{}
+      \name{author}{1}{}{%
+        {{hash=7675db4b93b7050bc0196b45ff882371}{%
+           family={Barat},
+           familyi={B\bibinitperiod},
+           given={BPS\bibnamedelimb Kabupaten\bibnamedelima Bandung},
+           giveni={B\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {BPS}%
+      }
+      \strng{namehash}{7675db4b93b7050bc0196b45ff882371}
+      \strng{fullhash}{7675db4b93b7050bc0196b45ff882371}
+      \strng{bibnamehash}{7675db4b93b7050bc0196b45ff882371}
+      \strng{authorbibnamehash}{7675db4b93b7050bc0196b45ff882371}
+      \strng{authornamehash}{7675db4b93b7050bc0196b45ff882371}
+      \strng{authorfullhash}{7675db4b93b7050bc0196b45ff882371}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Kabupaten Bandung Barat Dalam Angka 2022}
+      \field{year}{2022}
+    \endentry
+    \entry{BPS_Kota_Cimahi_2022}{book}{}
+      \name{author}{1}{}{%
+        {{hash=e13634eec4464a315909ea68b0b4b75a}{%
+           family={Cimahi},
+           familyi={C\bibinitperiod},
+           given={BPS\bibnamedelima Kota},
+           giveni={B\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {BPS}%
+      }
+      \strng{namehash}{e13634eec4464a315909ea68b0b4b75a}
+      \strng{fullhash}{e13634eec4464a315909ea68b0b4b75a}
+      \strng{bibnamehash}{e13634eec4464a315909ea68b0b4b75a}
+      \strng{authorbibnamehash}{e13634eec4464a315909ea68b0b4b75a}
+      \strng{authornamehash}{e13634eec4464a315909ea68b0b4b75a}
+      \strng{authorfullhash}{e13634eec4464a315909ea68b0b4b75a}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Kota Cimahi Dalam Angka 2022}
+      \field{year}{2022}
+    \endentry
+    \entry{Fuadina2021}{article}{}
+      \name{author}{3}{}{%
+        {{hash=e7b21f5dc6fca663020e935e82c253dd}{%
+           family={Fuadina},
+           familyi={F\bibinitperiod},
+           given={Lutfia\bibnamedelima Nursetya},
+           giveni={L\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=dbcfdeb0b4bebbc95636aab298a8aee3}{%
+           family={Rustiadi},
+           familyi={R\bibinitperiod},
+           given={Ernan},
+           giveni={E\bibinitperiod}}}%
+        {{hash=d3f166e584bd6a020016c1967b8a2315}{%
+           family={Pravitasari},
+           familyi={P\bibinitperiod},
+           given={Andrea\bibnamedelima Emma},
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Research}%
+        {Community Services Diponegoro University (LPPM UNDIP)}%
+      }
+      \strng{namehash}{e6a63380103fd91238908ca07718da43}
+      \strng{fullhash}{e6a63380103fd91238908ca07718da43}
+      \strng{bibnamehash}{e6a63380103fd91238908ca07718da43}
+      \strng{authorbibnamehash}{e6a63380103fd91238908ca07718da43}
+      \strng{authornamehash}{e6a63380103fd91238908ca07718da43}
+      \strng{authorfullhash}{e6a63380103fd91238908ca07718da43}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Bandung Metropolitan Area is the second largest metropolitan area in Indonesia. Bandung Metropolitan Area also represents the type of metropolitan in Asia which has massive urbanization characteristic that caused by increasing economic growth. This research aims to analyze the spatial diversity of the factors influencing urban sprawl in Bandung Metropolitan Area. The data used in this study were secondary data consisting of Landsat satellite imagery and facilities data obtained from the Central Statistics Agency (BPS) in the year of 2003 and 2014. The methodology used in this study was Geograpically Weighted Regression (GWR) analysis. The results showed that each variables has a different influence on each locations. Population density variable has a positive effect on the percentage of built up area. Whereas the variable of distance to Bandung City, the percentage of paddy field area, the percentage of forest area, and the distance to the toll road has a negative effect on the percentage of built up area. While the effect of the District Development Index variable toward the percentage of built up area varies in each research location.}
+      \field{issn}{0852-7458}
+      \field{issue}{1}
+      \field{journaltitle}{TATALOKA}
+      \field{month}{2}
+      \field{title}{Analisis Faktor-Faktor yang Mempengaruhi Urban Sprawl di Kawasan Cekungan Bandung}
+      \field{volume}{23}
+      \field{year}{2021}
+      \field{pages}{105\bibrangedash 114}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.14710/tataloka.23.1.105-114
+      \endverb
+    \endentry
+    \entry{Rustiadi2009}{article}{}
+      \name{author}{3}{}{%
+        {{hash=dbcfdeb0b4bebbc95636aab298a8aee3}{%
+           family={Rustiadi},
+           familyi={R\bibinitperiod},
+           given={Ernan},
+           giveni={E\bibinitperiod}}}%
+        {{hash=f21953f760b3c3af5c1eeb5a5d8c6d19}{%
+           family={Panuju},
+           familyi={P\bibinitperiod},
+           given={Dyah\bibnamedelima R.},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=712b85e9d658cdf9543db9681e71212b}{%
+           family={Trisasongko},
+           familyi={T\bibinitperiod},
+           given={Bambang\bibnamedelima H.},
+           giveni={B\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IPB (Bogor Agricultural University)}%
+      }
+      \strng{namehash}{1e0136958977ae4ae296bd6af615b5ec}
+      \strng{fullhash}{1e0136958977ae4ae296bd6af615b5ec}
+      \strng{bibnamehash}{1e0136958977ae4ae296bd6af615b5ec}
+      \strng{authorbibnamehash}{1e0136958977ae4ae296bd6af615b5ec}
+      \strng{authornamehash}{1e0136958977ae4ae296bd6af615b5ec}
+      \strng{authorfullhash}{1e0136958977ae4ae296bd6af615b5ec}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Jabodetabek plays a strategic role in national development in terms of national economic structure and political, socio-cultural and securify contexts. This paper reports contemporary updates on the environmental issues related to urban sprawl. Series of remote sensing data were used to demonstrate land use change. Rice field ratio was employed ?o assess declining agricultural fields.}
+      \field{journaltitle}{Proceeding of the ICALRD-JIRCAS Workshop}
+      \field{title}{Environmental Impacts Of Urbanization In Jabodetabek Area}
+      \field{year}{2009}
+    \endentry
+    \entry{BPS_Kabupaten_Sumedang_2022}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a5ca919d71a4e1767364edce78a92a33}{%
+           family={Sumedang},
+           familyi={S\bibinitperiod},
+           given={BPS\bibnamedelima Kabupaten},
+           giveni={B\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {BPS}%
+      }
+      \strng{namehash}{a5ca919d71a4e1767364edce78a92a33}
+      \strng{fullhash}{a5ca919d71a4e1767364edce78a92a33}
+      \strng{bibnamehash}{a5ca919d71a4e1767364edce78a92a33}
+      \strng{authorbibnamehash}{a5ca919d71a4e1767364edce78a92a33}
+      \strng{authornamehash}{a5ca919d71a4e1767364edce78a92a33}
+      \strng{authorfullhash}{a5ca919d71a4e1767364edce78a92a33}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Kabupaten Sumedang Dalam Angka 2022}
+      \field{year}{2022}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

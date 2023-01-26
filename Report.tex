@@ -1,32 +1,41 @@
 \documentclass{article}
-\usepackage{amsmath}
+
+\usepackage[top=1in, bottom=1in, left=1in, right=1in]{geometry}
+\usepackage{amsmath} %untuk menggunakan notasi matematika
+\usepackage{parskip}
+\usepackage{biblatex} %untuk menambahkan BibliTex
+\usepackage{indentfirst}
+
+\addbibresource{ref.bib} % menambahkan file .bib sebagai sumber referensi
+
 \begin{document}
 
-\title{Desain Metode Sampling untuk Mengukur Jumlah Pengguna Transportasi di Provinsi Jakarta dan Jawa Barat}
-\author{}
-\date{\today}
+\title{Analisa blabla...}
+\author{Akhmad Taufik Ismail}
 \maketitle
 
-\section{Pendahuluan}
-Untuk mengukur jumlah pengguna transportasi di provinsi Jakarta dan Jawa Barat, kami merekomendasikan menggunakan metode sampling yang disebut stratified sampling.
+\section{Latar Belakang dan Objektif} \par
 
-\section{Metode Sampling}
-Dengan metode stratified sampling, daerah-daerah di kedua provinsi tersebut dikelompokkan ke dalam strata atau kelompok-kelompok yang memiliki karakteristik yang sama. Kemudian, sampel dipilih secara acak dari setiap strata untuk dijadikan representatif dari strata tersebut.
+Kota-kota besar di negara-negara Asia-Pasifik telah mengalami perubahan yang signifikan dalam dua hingga tiga dekade terakhir karena urbanisasi. Penyebab urbanisasi berbeda-beda di setiap negara, tetapi pada dasarnya disebabkan oleh ketidakseimbangan spasial, seperti perbedaan jumlah penduduk dan ekonomi. Urbanisasi seringkali menyebabkan masalah sosial, ekonomi, dan perumahan di kota dan pedesaan \cite{Rustiadi2009}. Negara berkembang telah mengalami urbanisasi sejak tahun 1950 sebagai akibat dari perubahan ekonomi yang dihasilkan dari reorganisasi produksi, tenaga kerja, keuangan, penyediaan layanan, dan persaingan global, yang ditandai dengan pertumbuhan penduduk di kota-kota besar. Di Indonesia, selain Jakarta, kota-kota besar lainnya juga memiliki peran penting dalam pembangunan wilayah sebagai pusat kegiatan ekonomi yang memiliki hubungan dengan kota-kota besar lainnya, salah satunya adalah di Daerah Metropolitan Bandung (BMA) atau yang juga dikenal sebagai Kawasan Cekungan Bandung atau Bandung Raya \cite{Fuadina2021}. \par
 
-Untuk menentukan ukuran sampel yang tepat, kami menggunakan rumus sebagai berikut:
+Bandung Raya, yang juga dikenal sebagai Cekungan Bandung, adalah salah satu wilayah metropolitan terbesar di Indonesia yang terletak di antara Jakarta dan Surabaya. Pada tahun 2021, wilayah ini memiliki populasi lebih dari 9 juta jiwa \cite{BPS_Kota_Bandung_2022} \cite{BPS_Kota_Cimahi_2022} \cite{BPS_Kabupaten_Bandung_2022} \cite{BPS_Kabupaten_Bandung_Barat_2022} \cite{BPS_Kabupaten_Sumedang_2022} dan menempati peringkat ketiga dalam hal jumlah penduduk di negara ini. Kedua wilayah metropolitan ini, yaitu Jakarta dan Bandung, saat ini mengalami ekspansi perkotaan dan terus berkembang menjadi semakin terkait melalui koridor perkotaan yang menghubungkan Serang dan Cikampek serta Bandung dan Jakarta. Dalam hal ini, wilayah ini dikenal dengan nama Jakarta-Bandung Mega-Urban Region atau JBMUR. Wilayah ini meliputi Kota Bandung, Kabupaten Bandung, Kabupaten Bandung Barat, Kota Cimahi, dan 4 kecamatan di Kabupaten Sumedang yang ditetapkan sebagai Kawasan Strategis Nasional dalam aspek ekonomi oleh Peraturan Presiden Nomor 26 Tahun 2008. \par
 
-\begin{align*}
-n = N * Z^2 * P * Q / d^2 * (N - 1) + Z^2 * P * Q
-\end{align*}
+Tujuan dari Re-aktivasi jalur kereta Bandung-Tanjung Sari adalah untuk meningkatkan konektivitas transportasi publik di wilayah Bandung Raya. Kondisi transportasi publik saat ini relatif buruk, dengan hanya tersedia dua rute bus rapid dan angkot yang menghubungkan kedua daerah tersebut. Hal ini menyebabkan kesulitan bagi masyarakat yang bekerja atau belajar di kawasan Tanjung Sari dalam mencapai tujuan mereka. Terdapat beberapa universitas besar di Kecamatan Jatinangor, Kabupaten Sumedang yang membuat potensi pasar untuk jalur kereta komuter ini cukup tinggi. Oleh karena itu, dibutuhkan analisis pasar yang tepat untuk mengetahui tingkat minat masyarakat dalam menggunakan jalur kereta komuter baru ini. \par
 
-di mana:
-$n$ = ukuran sampel
-$N$ = jumlah populasi
-$Z$ = tingkat keyakinan (misalnya, 1,96 untuk keyakinan 95\%)
-$P$ = proporsi di dalam populasi yang diestimasi (misalnya, jika ingin mengestimasi proporsi pengguna transportasi umum, $P$ bisa dihitung sebagai jumlah pengguna transportasi umum dibagi jumlah total pengguna transportasi)
-$Q$ = 1 - $P$
-$d$ = tingkat akurasi (misalnya, 0,05 untuk menghasilkan hasil dengan akurasi 5\%)
+Analisis pasar ini akan memberikan informasi mengenai segmentasi pasar yang tepat, kebutuhan masyarakat dan tingkat persaingan dalam industri transportasi publik di wilayah Bandung Raya. Dengan demikian, pengambilan keputusan yang dilakukan dapat lebih tepat dan sesuai dengan kebutuhan masyarakat, sehingga dapat memberikan dampak positif bagi pengembangan transportasi publik di wilayah Bandung Raya. Analisis pasar ini juga dapat digunakan untuk mengetahui tingkat minat masyarakat dalam menggunakan jalur kereta komuter baru yang akan dire-aktivasi dari Stasiun Rancaekek ke Tanjung Sari. Untuk mengestimasi demand pengguna jalur baru tersebut, akan dilakukan metode multi stage sampling. \par
 
-Setelah ukuran sampel dihitung, sampel dipilih secara acak dari setiap strata sesuai dengan ukuran sampel yang telah ditentukan. Kemudian, jumlah pengguna transportasi diukur di setiap sampel tersebut dan dianalisis untuk menghasilkan estimasi jumlah pengguna transportasi di kedua provinsi tersebut.
+\subsection{Populasi}
+Tuliskan Populasi.
+
+\subsection{Populasi Target}
+Tuliskan Populasi Target.
+
+\section{Rangacangan Sampling}
+Tuliskan rangacangan sampling yang digunakan dalam penelitian di sini, termasuk persamaan matematika yang diperlukan.
+
+\section{Hasil dan Diskusi}
+Tuliskan hasil penelitian dan diskusi hasil di sini, termasuk persamaan matematika yang diperlukan.
+
+\printbibliography %menampilkan daftar referensi
 
 \end{document}
