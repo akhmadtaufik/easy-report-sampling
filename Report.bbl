@@ -223,6 +223,31 @@
       \field{title}{Kabupaten Sumedang Dalam Angka 2022}
       \field{year}{2022}
     \endentry
+    \entry{thompson_2012}{book}{}
+      \name{author}{1}{}{%
+        {{hash=e58fe597b6d5bee7f6cc3d0fd9ca9d40}{%
+           family={Thompson},
+           familyi={T\bibinitperiod},
+           given={Steven\bibnamedelima K.},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{e58fe597b6d5bee7f6cc3d0fd9ca9d40}
+      \strng{fullhash}{e58fe597b6d5bee7f6cc3d0fd9ca9d40}
+      \strng{bibnamehash}{e58fe597b6d5bee7f6cc3d0fd9ca9d40}
+      \strng{authorbibnamehash}{e58fe597b6d5bee7f6cc3d0fd9ca9d40}
+      \strng{authornamehash}{e58fe597b6d5bee7f6cc3d0fd9ca9d40}
+      \strng{authorfullhash}{e58fe597b6d5bee7f6cc3d0fd9ca9d40}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3rd}
+      \field{title}{Sampling}
+      \field{year}{2012}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber Report"] 1675060116 "Report.bcf" "Report.bbl" "Report" 1675259075 0
-  "Report.bcf" 1675259074 107716 eff6fa84d89e348d7dad44dc118f4a58 "pdflatex"
-  "ref.bib" 1674717784 3295 0c88b13161e8aa05c8b36c490737debf ""
+["biber Report"] 1675664312 "Report.bcf" "Report.bbl" "Report" 1675664336 0
+  "Report.bcf" 1675664335 107784 f60be9749bcc4bcd720a18c0d61c2dbe "pdflatex"
+  "ref.bib" 1675664233 3487 e6ad2c2d5a93917c9f59d0afe6b945cd ""
   (generated)
   "Report.bbl"
   "Report.blg"
   (rewritten before read)
-["pdflatex"] 1675259070 "g:/My Drive/Colab Notebooks/Pacmann AI/Statistics/5-Sampling/Easy Report/Report.tex" "Report.pdf" "Report" 1675259075 0
+["pdflatex"] 1675664332 "g:/My Drive/Colab Notebooks/Pacmann AI/Statistics/5-Sampling/Easy Report/Report.tex" "Report.pdf" "Report" 1675664336 0
   "C:/Users/Akhmad Taufik/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1675058852 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Akhmad Taufik/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1674731999 11548 ddf149919ac6b7df86f4d3024e05dbc2 ""
   "C:/Users/Akhmad Taufik/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1673541329 23172418 1aeb12d61973202fca13ee5d15bd0ec7 ""
@@ -84,10 +84,10 @@
   "C:/Users/Akhmad Taufik/AppData/Local/Programs/MiKTeX/tex/latex/parskip/parskip.sty" 1615976160 4288 94714aa7f535440f33181fec52a31963 ""
   "C:/Users/Akhmad Taufik/AppData/Local/Programs/MiKTeX/tex/latex/tools/indentfirst.sty" 1654690828 1618 6f0598aa81f9ba5cf5d393b4abd3e091 ""
   "C:/Users/Akhmad Taufik/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "Report.aux" 1675259074 3829 3e1fa88b51139728f75f6d9b642ed9c8 "pdflatex"
-  "Report.bbl" 1675060122 10744 5b1475277b94b7289f8d10a4f0a4bce0 "biber Report"
-  "Report.run.xml" 1675259074 2312 11050a28ff2148b997a2da5e9f561f92 "pdflatex"
-  "g:/My Drive/Colab Notebooks/Pacmann AI/Statistics/5-Sampling/Easy Report/Report.tex" 1675259059 16903 72e8733fd6fbf23a433369d4df18629e ""
+  "Report.aux" 1675664335 3968 9843dc6a8fff8cf6382639b4407ca018 "pdflatex"
+  "Report.bbl" 1675664321 11747 b83f633e73c1bb35c3da665b4ae04834 "biber Report"
+  "Report.run.xml" 1675664335 2312 11050a28ff2148b997a2da5e9f561f92 "pdflatex"
+  "g:/My Drive/Colab Notebooks/Pacmann AI/Statistics/5-Sampling/Easy Report/Report.tex" 1675664303 25303 464209c67f8e46d21e53479e6ef3407d ""
   (generated)
   "Report.aux"
   "Report.bcf"

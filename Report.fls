@@ -390,9 +390,9 @@ INPUT C:\Users\Akhmad Taufik\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\c
 OUTPUT Report.pdf
 INPUT C:\Users\Akhmad Taufik\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\Akhmad Taufik\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1000.tfm
-INPUT C:\Users\Akhmad Taufik\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
-INPUT C:\Users\Akhmad Taufik\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT C:\Users\Akhmad Taufik\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
+INPUT C:\Users\Akhmad Taufik\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\Akhmad Taufik\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT C:\Users\Akhmad Taufik\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
 INPUT C:\Users\Akhmad Taufik\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmcsc10.tfm
 INPUT C:\Users\Akhmad Taufik\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmtt10.tfm
